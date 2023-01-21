@@ -10,8 +10,9 @@ body {
   font-family: sans-serif;
   background-image: linear-gradient(
     to bottom right,
-    rgba(79, 51, 176, 1),
-    rgba(210, 53, 165)
+    rgb(255, 0, 0),
+    rgb(176, 111, 51),
+    rgb(208, 210, 53)
   );
 }
 
